@@ -1,0 +1,6 @@
+*.txt
+
+/build
+
+doc/*.sh
+
