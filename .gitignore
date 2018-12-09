@@ -1,0 +1,10 @@
+*.txt
+
+/build
+
+mytest/
+
+doc/*.sh
+
+*.sh
+
