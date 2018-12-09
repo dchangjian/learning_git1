@@ -6,3 +6,5 @@ mytest/
 
 doc/*.sh
 
+*.sh
+
